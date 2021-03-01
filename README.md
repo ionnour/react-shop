@@ -1,6 +1,6 @@
 # React-shop
 E-shop build whit react.
-[Check out the deployed site](https://chat-react-in.netlify.app/)
+[Check out the deployed site](https://react-shop2.netlify.app/)
 
 ## Core Packages
 
